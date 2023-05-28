@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**fiifijackson/fiifijackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 I'm Albert, a trained optometrist from Ghana, currently pursuing a Ph.D. in biomedical engineering in the USA. I am incredibly passionate about merging my clinical expertise with cutting-edge technology to revolutionize the field of ophthalmology.
 
 My research focuses on the intersection of image processing, artificial intelligence, and machine learning, with a specific emphasis on the detection and categorization of retinal diseases. I utilize various imaging modalities, including fundus images, OCT (Optical Coherence Tomography), and OCTA (Optical Coherence Tomography Angiography), to develop advanced algorithms and models that can accurately diagnose and classify ocular conditions.
